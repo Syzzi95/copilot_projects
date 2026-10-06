@@ -12,7 +12,6 @@ You can navigate and review the submission task by task. Deliverable submissions
 Improve productivity with co-pilot/
 ├── 00-Extra materials
 ├── Deliverables/
-│   ├── Prompt Library.docx
 │   ├── Deliverable_Task 1/
 │   │   ├── Supply Chain Issues Email Summary.docx
 │   │   └── Supply Chain Issues Review.docx
@@ -24,7 +23,8 @@ Improve productivity with co-pilot/
 │   │   ├── Supply Chain Issue Analysis Report.docx
 │   │   └── Supply Chain Report.xlsx
 │   └── Deliverable_Task 4/
-│       └── Supply Chain Issue Compliance Report.ppt
+│   │   └── Supply Chain Issue Compliance Report.ppt
+│   ├── Prompt Library.docx
 ├── Task 1/
 │   ├── e-mail -- Immediate Attention Required Critical Supply Chain Issues Impacting FDA Compliance
 │   └── Supply Chain Report
