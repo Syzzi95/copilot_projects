@@ -10,6 +10,7 @@ This project leverages Microsoft Copilot across Outlook, Teams, Word, Excel, and
 You can navigate and review the submission task by task. Deliverable submissions are in the deliverables folder and the supporting documentation can be found in Task folders.  
 ```
 Improve productivity with co-pilot/
+├── 00-Extra materials
 ├── Deliverables/
 │   ├── Prompt Library.docx
 │   ├── Deliverable_Task 1/
