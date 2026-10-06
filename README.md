@@ -8,48 +8,33 @@ This project leverages Microsoft Copilot across Outlook, Teams, Word, Excel, and
 
 ## How to navigate 
 You can navigate and review the submission task by task. Deliverable submissions are in the deliverables folder and the supporting documentation can be found in Task folders.  
-
+```
 Improve productivity with co-pilot/
 ├── Deliverables/
-│   │
 │   ├── Prompt Library.docx
-│   │
 │   ├── Deliverable_Task 1/
-│   │   └── Supply Chain Issues Email Summary.docx
+│   │   ├── Supply Chain Issues Email Summary.docx
 │   │   └── Supply Chain Issues Review.docx
-│   │
 │   ├── Deliverable_Task 2/
-│   │   └── Agenda Based Meeting Summary.docx
-│   │   └── Supply Chain Issues Action Plan.docx
+│   │   ├── Agenda Based Meeting Summary.docx
+│   │   ├── Supply Chain Issues Action Plan.docx
 │   │   └── Supply Chain Issues Meeting Invite with Agenda.png
-│   │
 │   ├── Deliverable_Task 3/
-│   │   └── Supply Chain Issue Analysis Report.docx
+│   │   ├── Supply Chain Issue Analysis Report.docx
 │   │   └── Supply Chain Report.xlsx
-│   │
-│   ├── Deliverable_Task 4/
-│   │   └── Supply Chain Issue Compliance Report.ppt
-│   │
+│   └── Deliverable_Task 4/
+│       └── Supply Chain Issue Compliance Report.ppt
 ├── Task 1/
-│   ├── task-1/
-│   │   └── e-mail -- Immediate Attention Required Critical Supply Chain Issues Impacting FDA Compliance
-│   │   └── Supply Chain Report
-│   ├── MACOSX/
-│   │
+│   ├── e-mail -- Immediate Attention Required Critical Supply Chain Issues Impacting FDA Compliance
+│   └── Supply Chain Report
 ├── Task 2/
-│   ├── task-2/
-│   │   └── Action Plan - Planner Tasks
-│   │   └── Teams Meeting Transcript
-│   ├─ MACOSX/
-│   │
-└── Task 3/
-│   ├── task-3/
-│   │   └── Expanded_SupplyChainMetrics
-│   │   └── Supply Chain Issue Template
-│   ├── MACOSX/
-│   │
-├── README.md
-
+│   ├── Action Plan - Planner Tasks
+│   └── Teams Meeting Transcript
+├── Task 3/
+│   ├── Expanded_SupplyChainMetrics
+│   └── Supply Chain Issue Template
+└── README.md
+```
 ---
 
 ## Final Deliverables
