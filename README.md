@@ -1,9 +1,15 @@
 # Supply Chain Compliance Review Project
+
 ## Overview
-Thess projects leverage Microsoft Copilot across Outlook, Teams, Word, Excel, and PowerPoint to showcase how AI Agents can be used to improve productivity around the M365 suite. 
+This projects leverage Microsoft Copilot across Outlook, Teams, Word, Excel, and PowerPoint to showcase how AI Agents can be used to improve productivity around the M365 suite. 
+
 ---
+
 ### How to navigate 
 You can navigate and review the submission task by task. Deliverable submissions are in the deliverables folder and the supporting documentation can be found in Task folders.  
+
+---
+
 ```
 ├── Productivity with co-pilot/
 |   ├── 00-Extra materials
